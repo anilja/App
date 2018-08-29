@@ -25,3 +25,4 @@ Steps to run APK in emulator on PC / Laptop :
 Demo available on Playstore : https://play.google.com/store/apps/details?id=com.anil
 
 We are working on a ML algorithm to combine all the data available for Bus,metro,train,cabs,carpool,bikerides,Bicycle rides,,etc to provide the user Best option to travel last mile in his city commute as well as Intercity travel.
+A video explaining our work : https://youtu.be/P8K9fQQKeDc
