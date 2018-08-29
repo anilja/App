@@ -21,3 +21,5 @@ Steps to run APK in emulator on PC / Laptop :
 2) After that install any one device.It will act same like as emulator.
 
 3) Download APK file from Above Link and then directly drag and drop that downloaded file into emulator which we installed,So that app will be installed.
+
+Demo available on Playstore : https://play.google.com/store/apps/details?id=com.anil
