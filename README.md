@@ -23,3 +23,5 @@ Steps to run APK in emulator on PC / Laptop :
 3) Download APK file from Above Link and then directly drag and drop that downloaded file into emulator which we installed,So that app will be installed.
 
 Demo available on Playstore : https://play.google.com/store/apps/details?id=com.anil
+
+We are working on a ML algorithm to combine all the data available for Bus,metro,train,cabs,carpool,bikerides,Bicycle rides,,etc to provide the user Best option to travel last mile in his city commute as well as Intercity travel.
